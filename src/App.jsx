@@ -6,7 +6,6 @@ import cherImg from './assets/celeb_pics/cher.png'
 import noelGallagherImg from './assets/celeb_pics/noelGallagher.png'
 import blurdleLogo from './assets/Blurdle.png'
 
-// Placeholder image (replace with your own celebrity images later)
 const CELEBRITIES = [
   {
     name: 'Lady Gaga',
@@ -28,7 +27,6 @@ const CELEBRITIES = [
     image: noelGallagherImg,
     brand: 'https://www.radiox.co.uk/',
   },
-  // Add more celebrities as needed
 ];
 
 const MAX_GUESSES = 6;

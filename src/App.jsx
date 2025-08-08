@@ -125,11 +125,10 @@ function App() {
           style={{
             filter: `blur(${animBlur}px)`,
             transition: 'filter 0.5s cubic-bezier(0.4,0,0.2,1)',
-            width: 320,
+            width: 370,
             height: 400,
             objectFit: 'cover',
-            borderRadius: 16,
-            boxShadow: '0 4px 24px rgba(0,0,0,0.15)',
+
           }}
         />
       </div>
